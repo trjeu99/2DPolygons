@@ -1,2 +1,2 @@
 # 2DPolygons
-Đồ án trực quan cuối năm - BlueStarks
+Drawing shape with detail information and display mathematically - BlueStarks Team
